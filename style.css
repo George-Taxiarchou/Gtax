@@ -10,7 +10,7 @@ body {
 }
 
 hr{
-  max-width: 360px;
+  max-width: 500px;
   border-width: 3px;
   border-color: black; 
 }
@@ -50,5 +50,5 @@ hr.buttonhr{
 	max-width: 300px;
 	border-width: 3px;
 	border-color: black; 
-	margin-top:10%;
+	margin-top:200px;
 }
