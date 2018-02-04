@@ -19,6 +19,11 @@ img {
 	width:120px;
 	margin: 20px;
 }
+img.face{
+  height:200px;
+  width:200px;
+  margin: 20px;
+}
 ul {
 	width: 550px; 
     list-style: none outside none;
