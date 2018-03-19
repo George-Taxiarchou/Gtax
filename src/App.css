@@ -20,12 +20,12 @@ img.face{
   right:0;
   bottom:0;
   left:0;
+  z-index: -1
 }
 ul {
   width: 550px; 
     list-style: none outside none;
-    margin: auto ;
-    
+    margin: auto ;  
 }
 a, a:visited {
   color: #000000;

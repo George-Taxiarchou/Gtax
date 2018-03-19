@@ -11,10 +11,10 @@ const face = require('./images/face.gif');
 const particlesOptions ={
   particles:{
     number:{
-      value:30,
+      value:60,
       density:{
-        enable:true,
-        value_area:2500
+        enable:false,
+        value_area:500
       }
     },
     line_linked: {
