@@ -21,9 +21,7 @@ const particlesOptions ={
       enable: true,
       color: "#F0FFFF"
     },
-    polygon: {
-      nb_sides: 7
-    },
+    
 
   }
 }

@@ -25,7 +25,8 @@ img.face{
 ul {
   width: 550px; 
     list-style: none outside none;
-    margin: auto ;  
+    margin: auto ;
+    
 }
 a, a:visited {
   color: #000000;
